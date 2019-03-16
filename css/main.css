@@ -45,13 +45,17 @@ body {
   width: 50%;
   margin-top: 5%;
   margin-left: 20%;
-  margin-right: 20%;
 
 }
 
 .front_news {
   background: #b50f0d;
-  width: 460px;
-  height: 426px;
+  padding-right: 300px;
   
+  
+  
+}
+
+.front_news a {
+  text-decoration: none;
 }
